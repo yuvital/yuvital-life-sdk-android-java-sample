@@ -10,8 +10,6 @@ This SDK is designed exclusively for **native Android applications** developed u
 
 - **Android:** Kotlin or Java
 
-> **IMPORTANT:** This SDK is **NOT compatible** with hybrid frameworks, including **React Native**. Integration into such frameworks is not supported at this moment.
-
 ### Prerequisites
 
 - **Target OS:** Android API 29+
