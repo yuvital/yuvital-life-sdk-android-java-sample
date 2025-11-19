@@ -6,18 +6,15 @@ This repository contains an **Android Java sample application** that demonstrate
 
 ## Compatibility Notice
 
-This SDK is designed exclusively for **native mobile applications** developed using:
+This SDK is designed exclusively for **native Android applications** developed using:
 
-- **iOS:** Swift or Objective-C
 - **Android:** Kotlin or Java
-
-For iOS integration, refer to the corresponding **YuviTal Life iOS integration guide or sample project** in your documentation.
 
 > **IMPORTANT:** This SDK is **NOT compatible** with hybrid frameworks, including **React Native**. Integration into such frameworks is not supported at this moment.
 
 ### Prerequisites
 
-- **Target OS:** iOS 15.5+ / Android API 29+
+- **Target OS:** Android API 29+
 
 ### Installation
 
