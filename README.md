@@ -39,7 +39,7 @@ yuvitalLifeSdkPassword=YOUR_PASSWORD
 ```java
  dependencyResolutionManagement {
      repositories {
-        // Other repositories you use:
+        // Other repositories...
         google()
         mavenCentral()
 
