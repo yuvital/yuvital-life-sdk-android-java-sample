@@ -65,7 +65,7 @@ dependencies {
 **RTL Support**
 
 YuviTal Life SDK has full RTL support
-Add android:supportsRtl="true" on the host app AndroidManifest.xml inside <application>:
+Add android:supportsRtl="true" to the AndroidManifest.xml:
 
 ```xml
 <!-- AndroidManifest.xml -->
