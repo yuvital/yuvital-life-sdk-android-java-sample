@@ -58,8 +58,21 @@ yuvitalLifeSdkPassword=YOUR_PASSWORD
 ```java
 dependencies {
     // Other dependencies...
-    implementation "com.yuvital:yuvitallife-sdk:1.1.6"
+    implementation "com.yuvital:yuvitallife-sdk:2.0.0"
 }
+```
+
+**RTL Support**
+
+YuviTal Life SDK has full RTL support
+Add android:supportsRtl="true" on the host app AndroidManifest.xml inside <application>:
+
+```xml
+<!-- AndroidManifest.xml -->
+    <application
+        android:supportsRtl="true">
+        <!-- ... -->
+    </application>
 ```
 
 ### Debug build limitation
