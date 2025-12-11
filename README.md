@@ -58,7 +58,7 @@ yuvitalLifeSdkPassword=YOUR_PASSWORD
 ```java
 dependencies {
     // Other dependencies...
-    implementation "com.yuvital:yuvitallife-sdk:2.0.0"
+    implementation "com.yuvital:yuvitallife-sdk:2.1.1"
 }
 ```
 
@@ -74,9 +74,3 @@ Add android:supportsRtl="true" to the AndroidManifest.xml:
         <!-- ... -->
     </application>
 ```
-
-### Debug build limitation
-
-> **Note:** The YuviTal Life SDK currently **does not work in Android debug builds**.  
-> It is fully supported in **release / signed builds** only.  
-> Debug support is a work in progress and will be addressed in a future SDK version.
